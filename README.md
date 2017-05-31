@@ -33,6 +33,7 @@ Some tips:
 * Show enthusiastic in interviews because that person may be your next colleague
 * Invest time and you get the return
 * Make it transparent
+* Use candidate experience surveys for continually refine your interview skills and processes
 
 
 take-home challenge tips:
